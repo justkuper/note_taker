@@ -56,5 +56,5 @@ The app will be available at http://localhost:3000.
 - Enter keywords or tags to filter notes.
 
 
-##Contact
+## Contact
 For questions about the project, please contact [KUPER BANK](https://github.com/justkuper).
