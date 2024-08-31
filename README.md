@@ -37,3 +37,24 @@ The Notetaker App is a simple, intuitive application designed for capturing, org
    ```bash
    npm start
 The app will be available at http://localhost:3000.
+
+##Usage
+
+## Usage
+
+### Create a Note:
+- Click on the "New Note" button.
+- Enter your note content.
+- Save the note by clicking "Save".
+
+### Organize Notes:
+- Use folders or tags to categorize your notes.
+- Drag and drop notes into folders for easy organization.
+
+### Search Notes:
+- Use the search bar at the top of the app to find notes quickly.
+- Enter keywords or tags to filter notes.
+
+
+##Contact
+For questions about the project, please contact [KUPER BANK](https://github.com/justkuper).
