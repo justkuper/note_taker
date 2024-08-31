@@ -27,3 +27,13 @@ The Notetaker App is a simple, intuitive application designed for capturing, org
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/justkuper/note_taker.git
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd notetaker-app
+3. **Install Dependencies**:
+   ```bash
+   npm install
+4. **Run the Application**:
+   ```bash
+   npm start
+The app will be available at http://localhost:3000.
