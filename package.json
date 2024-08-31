@@ -1,0 +1,28 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Keeps track of notes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kuper Bank",
+  "license": "ISC",
+  "dependencies": {
+    "clog": "^0.1.6",
+    "express": "^4.16.4",
+    "fs": "^0.0.1-security",
+    "uuid": "^10.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justkuper/note_taker.git"
+  },
+  "keywords": [
+    "note"
+  ],
+  "bugs": {
+    "url": "https://github.com/justkuper/note_taker/issues"
+  },
+  "homepage": "https://github.com/justkuper/note_taker#readme"
+}
